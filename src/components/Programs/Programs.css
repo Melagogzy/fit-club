@@ -56,3 +56,8 @@
  .joim-now>img{
     width:1rem
  }
+
+ .category:hover{
+    background-color: orange;
+    cursor: pointer;
+ }
